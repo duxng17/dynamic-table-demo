@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "attributes": [
+      {
+        "attributeId": "firstName",
+        "attributeValue": "John",
+        "attributeName": "First Name"
+      },
+      {
+        "attributeId": "lastName",
+        "attributeValue": "Doe",
+        "attributeName": "Last Name"
+      },
+      {
+        "attributeId": "email",
+        "attributeValue": "johndoe@example.com",
+        "attributeName": "Email"
+      },
+      {
+        "attributeId": "department",
+        "attributeValue": "Sales",
+        "attributeName": "Department"
+      },
+      {
+        "attributeId": "jobTitle",
+        "attributeValue": "Sales Representative",
+        "attributeName": "Job Title"
+      },
+      {
+        "attributeId": "hireDate",
+        "attributeValue": "2023-01-01",
+        "attributeName": "Hire Date"
+      },
+      {
+        "attributeId": "salary",
+        "attributeValue": "50000",
+        "attributeName": "Salary"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "attributes": [
+      {
+        "attributeId": "firstName",
+        "attributeValue": "John2",
+        "attributeName": "First Name"
+      },
+      {
+        "attributeId": "lastName",
+        "attributeValue": "Doe2",
+        "attributeName": "Last Name"
+      },
+      {
+        "attributeId": "email",
+        "attributeValue": "johndoe2@example.com",
+        "attributeName": "Email"
+      },
+      {
+        "attributeId": "department",
+        "attributeValue": "Sales2",
+        "attributeName": "Department"
+      },
+      {
+        "attributeId": "jobTitle",
+        "attributeValue": "Sales Representative2",
+        "attributeName": "Job Title"
+      },
+      {
+        "attributeId": "hireDate",
+        "attributeValue": "2023-01-01",
+        "attributeName": "Hire Date"
+      },
+      {
+        "attributeId": "salary",
+        "attributeValue": "500002",
+        "attributeName": "Salary"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "attributes": [
+      {
+        "attributeId": "firstName",
+        "attributeValue": "John 3",
+        "attributeName": "First Name"
+      },
+      {
+        "attributeId": "lastName",
+        "attributeValue": "Doe 3",
+        "attributeName": "Last Name"
+      },
+      {
+        "attributeId": "email",
+        "attributeValue": "johndoe3@example.com",
+        "attributeName": "Email"
+      },
+      {
+        "attributeId": "department",
+        "attributeValue": "Sales3",
+        "attributeName": "Department"
+      },
+      {
+        "attributeId": "jobTitle",
+        "attributeValue": "Sales Representative3",
+        "attributeName": "Job Title"
+      },
+      {
+        "attributeId": "hireDate",
+        "attributeValue": "2023-01-01",
+        "attributeName": "Hire Date"
+      },
+      {
+        "attributeId": "salary",
+        "attributeValue": "500003",
+        "attributeName": "Salary"
+      }
+    ]
+  }
+]

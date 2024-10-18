@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Last Name",
+    "require": true,
+    "type": "text",
+    "order": 2,
+    "id": "lastName"
+  },
+  {
+    "name": "First Name",
+    "require": true,
+    "type": "text",
+    "order": 3,
+    "id": "firstName"
+  },
+  {
+    "name": "Job Title",
+    "require": true,
+    "type": "text",
+    "order": 4,
+    "id": "jobTitle"
+  },
+  {
+    "name": "Hire Date",
+    "require": true,
+    "type": "text",
+    "order": 5,
+    "id": "hireDate"
+  },
+  {
+    "name": "Salary",
+    "require": true,
+    "type": "number",
+    "order": 6,
+    "id": "salary"
+  },
+  {
+    "name": "Department",
+    "require": true,
+    "type": "text",
+    "order": 7,
+    "id": "department"
+  },
+  {
+    "name": "Department 3",
+    "require": true,
+    "type": "text",
+    "order": 7,
+    "id": "department3"
+  }
+]
